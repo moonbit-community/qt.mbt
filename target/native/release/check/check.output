@@ -1,0 +1,1 @@
+{"$message_type":"diagnostic","level":"warning","loc":{"path":"/home/williamz1008/Projects/MoonBit/qtgui/src/q_application.mbt","start":{"line":2,"col":98},"end":{"line":2,"col":104}},"message":"Warning: Unused type 'PyDict'","error_code":3}

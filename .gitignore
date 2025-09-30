@@ -1,5 +1,4 @@
-# exclude interpreter/.env_qt_python/
-interpreter/.env_qt_python/
+./interpreter/.env_qt_python
 ./mooncakes
 ./target
 .DS_Store
